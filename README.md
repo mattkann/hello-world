@@ -1,10 +1,4 @@
 # hello-world
 
-#include <iostream>
-  using namespace std;
-  int main()
-  {
-    cout<<"HELLO WORLD"<<endl
-    <<"THIS IS MATT KANN"<<endl;
-   return 0;
-  }
+Hi everyone!!
+  I'm Matthew. i started liking c++ and programming in c++ is easier than in c. That's it for now i guess. 
